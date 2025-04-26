@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "LINQMethodSyntax/1.0.0": {
+        "runtime": {
+          "LINQMethodSyntax.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LINQMethodSyntax/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

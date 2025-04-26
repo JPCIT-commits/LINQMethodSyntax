@@ -1,0 +1,14 @@
+/home/plum/Documents/CIT195/LINQMethodSyntax/bin/Debug/net8.0/LINQMethodSyntax
+/home/plum/Documents/CIT195/LINQMethodSyntax/bin/Debug/net8.0/LINQMethodSyntax.deps.json
+/home/plum/Documents/CIT195/LINQMethodSyntax/bin/Debug/net8.0/LINQMethodSyntax.runtimeconfig.json
+/home/plum/Documents/CIT195/LINQMethodSyntax/bin/Debug/net8.0/LINQMethodSyntax.dll
+/home/plum/Documents/CIT195/LINQMethodSyntax/bin/Debug/net8.0/LINQMethodSyntax.pdb
+/home/plum/Documents/CIT195/LINQMethodSyntax/obj/Debug/net8.0/LINQMethodSyntax.GeneratedMSBuildEditorConfig.editorconfig
+/home/plum/Documents/CIT195/LINQMethodSyntax/obj/Debug/net8.0/LINQMethodSyntax.AssemblyInfoInputs.cache
+/home/plum/Documents/CIT195/LINQMethodSyntax/obj/Debug/net8.0/LINQMethodSyntax.AssemblyInfo.cs
+/home/plum/Documents/CIT195/LINQMethodSyntax/obj/Debug/net8.0/LINQMethodSyntax.csproj.CoreCompileInputs.cache
+/home/plum/Documents/CIT195/LINQMethodSyntax/obj/Debug/net8.0/LINQMethodSyntax.dll
+/home/plum/Documents/CIT195/LINQMethodSyntax/obj/Debug/net8.0/refint/LINQMethodSyntax.dll
+/home/plum/Documents/CIT195/LINQMethodSyntax/obj/Debug/net8.0/LINQMethodSyntax.pdb
+/home/plum/Documents/CIT195/LINQMethodSyntax/obj/Debug/net8.0/LINQMethodSyntax.genruntimeconfig.cache
+/home/plum/Documents/CIT195/LINQMethodSyntax/obj/Debug/net8.0/ref/LINQMethodSyntax.dll
